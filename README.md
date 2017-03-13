@@ -2,8 +2,8 @@
 
 ## Tebakan nilai awal
 
-a = -1
-b = 7
+- a = -1
+- b = 7
 
 ## Batas iterasi
 
