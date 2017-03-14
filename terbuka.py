@@ -2,8 +2,8 @@
 # Monday, March 13 2017
 
 # firstGuess:
-a = -1;
-b = 7;
+a = input('insert a : ')
+b = input('insert b : ')
 
 def fungsi(x):
     return (x * x) - 4 # func: x^2 - 4
